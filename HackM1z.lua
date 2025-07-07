@@ -1,5 +1,4 @@
--- ⚠️ Educational Use Only: Roblox Vulnerability Scanner (LocalScript / Solara)
--- 🛠️ By ChatGPT | Features: tool cloning, remote abuse test, FilteringEnabled check, noclip, etc.
+
 
 local Players, RS, UIS, TS, Lighting = game:GetService("Players"), game:GetService("RunService"), game:GetService("UserInputService"), game:GetService("TeleportService"), game:GetService("Lighting")
 local lp = Players.LocalPlayer
